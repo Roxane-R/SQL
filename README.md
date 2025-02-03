@@ -2,6 +2,7 @@
 
 ## 📝 Description brève du projet
 Best Market, une société de la grande distribution, souhaite analyser les résultats des enquêtes de satisfaction client afin d'améliorer la qualité de son réseau de magasins.
+
 Les objectifs sont :
 - Analyser les retours clients provenant de diverses sources de données
 - Répondre aux interrogations de Best Market
