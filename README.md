@@ -10,9 +10,9 @@ Les objectifs sont :
 ---
 
 ## 🧰 Outils et technologies utilisés
-- **Langages** : SQL
+- **Langage** : SQL
 - **Base de données** : SQLiteStudio
-- **Autres outils** : Notepad++
+- **Autre outil** : Notepad++
   
 ---
 
