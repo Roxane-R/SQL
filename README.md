@@ -1,12 +1,12 @@
 # 🌟 Manipulez une base de données avec SQL pour suivre la satisfaction client 
 
 ## 📝 Description brève du projet
-Best Market, une société de la grande distribution, souhaite analyser les résultats des enquêtes de satisfaction client afin d'améliorer la qualité de son réseau de magasins.
+Best Market, une entreprise de grande distribution, cherche à exploiter les résultats des enquêtes de satisfaction client afin d’améliorer la qualité de service et l’expérience en magasin.
 
 Les objectifs sont :
-- Analyser les retours clients provenant de diverses sources de données
-- Répondre aux interrogations de Best Market
-- Améliorer l'expérience client et favoriser leur fidélisation
+- Analyser les retours clients issus de diverses sources de données
+- Répondre aux questions stratégiques de Best Market
+- Améliorer l'expérience client et renforcer leur fidélisation à travers des actions ciblées
 ---
 
 ## 🧰 Outils et technologies utilisés
@@ -32,5 +32,5 @@ Les objectifs sont :
 ## 📦 Livrables
 Les livrables de ce projet incluent :
 1. **Document d'expression des besoins client**
-2. **Présentation** incluant la base de donnée, le schéma relationnel, les reqêtes SQL et leurs résultats
+2. **Présentation** incluant la base de donnée, le schéma relationnel, les requêtes SQL et leurs résultats
 ---
